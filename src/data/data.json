@@ -1,0 +1,81 @@
+[
+{
+  "id": 1,
+  "name": "React quiz",
+  "total_questions": 5,
+  "skippable": true,
+  "show_answer": false,
+  "show_error_message": true,
+  "correct_answer_message": "Well Done! Its a correct answer",
+  "incorrect_answer_message": "Unfortunately! Its a wrong answer",
+  "no_option_selected": "Please select a option!",
+  "questions": [
+    {
+      "id": 8,
+      "name": "Which is the Capital of India?",
+      "type": "single_choice",
+      "options":[
+        "Bangalore",
+        "Mumbai",
+        "NY",
+        "Delhi",
+        "UP"
+      ],
+      "answer": "4",
+      "explanation": "Capital is the explanation"
+    },
+    {
+      "id": 9,
+      "name": "Cities of India?",
+      "type": "multi_choice",
+      "options":[
+        "Delhi",
+        "NY",
+        "Melbourne",
+        "Mumbai"
+      ],
+      "answer": [1,4],
+      "explanation": "Cities is the explanation"
+    },
+    {
+      "id": 10,
+      "name": "Who is the COO of Google?",
+      "type": "single_choice",
+      "options":[
+        "Sundar Pichai",
+        "Modi",
+        "Trump",
+        "Mark"
+      ],
+      "answer": "1",
+      "explanation": "Sundar is the explanation"
+    },
+    {
+      "id": 11,
+      "name": "Who is the PM of India?",
+      "type": "single_choice",
+      "options":[
+        "White",
+        "Modi",
+        "Green",
+        "Red"
+      ],
+      "answer": "2",
+      "explanation": "Modi is the explanation"
+    },
+    {
+      "id": 12,
+      "name": "Who is the President of US?",
+      "type": "single_choice",
+      "options":[
+        "Blue",
+        "Mark",
+        "Trump",
+        "Dell"
+      ],
+      "answer": "3",
+      "explanation": "Trump is the explanation"
+    }
+  ]
+}
+]
