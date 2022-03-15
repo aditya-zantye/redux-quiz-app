@@ -22,7 +22,7 @@ const Start = (props) => {
   }
 
   const mthd_start_quiz = () => {
-    props._action_start_quiz(selectedQuiz,data)
+    props._action_start_quiz('start_quiz',selectedQuiz,data)
   }
  
 

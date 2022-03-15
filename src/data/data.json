@@ -24,19 +24,10 @@
       "answer": "4",
       "explanation": "Capital is the explanation"
     },
-    {
-      "id": 9,
-      "name": "Cities of India?",
-      "type": "multi_choice",
-      "options":[
-        "Delhi",
-        "NY",
-        "Melbourne",
-        "Mumbai"
-      ],
-      "answer": [1,4],
-      "explanation": "Cities is the explanation"
-    },
+
+    
+   
+    
     {
       "id": 10,
       "name": "Who is the COO of Google?",

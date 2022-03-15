@@ -1,0 +1,19 @@
+REDUX QUIZ APP POINTS:
+
+DONE PONTIS:
+Start Quiz UI template design 
+Question UI template design
+Finish UI template design
+Single Choice Quiz functionality to show correct and incorrect answers 
+Next Question Functionality 
+Finish UI with quiz statistics
+Reset Quiz functionality
+Question Answer Validation [Next and Finish]
+Previous Question Functionality 
+
+PENDING POINTS:
+Multiple Choice Quiz functionality to show correct and incorrect answers 
+Skip Question Functionality
+Question Answer Validation [Previous and Skip]
+
+

@@ -5,6 +5,7 @@ import Start from './components/Start';
 import Question_List from './components/Question_List';
 import { connect } from 'react-redux';
 import React from 'react';
+import Finish from './components/Finish';
 
 
 class App extends React.Component{
@@ -18,6 +19,8 @@ class App extends React.Component{
       <Routes>
         <Route path='/' element={<Start />} />
         <Route path='/question-list' element={<Question_List question_array={this.props.question_array} />} />
+        <Route path='/finish' element={<Finish question_array={this.props.question_array}
+        />} />
       </Routes>
     </div>
     )
